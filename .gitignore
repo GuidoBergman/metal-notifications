@@ -1,0 +1,18 @@
+# Local state. Everything here is rebuilt by running the script.
+known_shows.json
+known_shows.json.bak-*
+watchlist.json
+watchlist.lock
+*.json.tmp
+images/
+.pending/
+
+# Logs
+*.log
+
+# Symlink to an unrelated BMAD install outside this project
+.bmad
+
+# Python
+__pycache__/
+*.py[cod]
