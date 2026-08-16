@@ -13,12 +13,16 @@ Shows you are interested in can be put on a watchlist, either by clicking the
     ./monitor.py watch <text>     put matching shows on the watchlist
     ./monitor.py unwatch <text>   take them off
     ./monitor.py list             show the watchlist
+    ./monitor.py dashboard        rebuild dashboard.html without notifying
 
 Watched shows get two extra notifications, and only watched shows do:
   * their tickets go on sale (the show gains a ticket link);
   * their date, time or venue changes on the site.
 
 Stdlib only -- no pip installs needed.
+
+Every run also regenerates dashboard.html, a browsable grid of every show with
+its genre, country and flyer. See dashboard.py.
 
 State lives in known_shows.json next to this file, the watchlist in
 watchlist.json, cached flyers in images/. The first run seeds the baseline
@@ -182,6 +186,8 @@ def cache_image(image_url):
         tmp = path.with_suffix(path.suffix + ".tmp")
         tmp.write_bytes(data)
         tmp.replace(path)
+        # The dashboard fetches every flyer on its first build; stay polite.
+        time.sleep(0.25)
         return str(path)
     except Exception as e:  # noqa: BLE001
         log(f"image download failed ({image_url}): {e}")
@@ -743,7 +749,42 @@ def cmd_list():
     return 0
 
 
+def cmd_dashboard():
+    """Rebuild dashboard.html from the live agenda without notifying anything."""
+    try:
+        shows = parse_shows(fetch(URL))
+    except Exception as e:  # noqa: BLE001
+        print(f"Could not fetch the agenda: {e}")
+        return 1
+    if not shows:
+        print("Parsed 0 shows -- page format may have changed. Nothing rebuilt.")
+        return 1
+    import dashboard
+    path = dashboard.rebuild({s["key"]: s for s in shows}, cache_image, log)
+    print(f"Dashboard rebuilt: {path}")
+    return 0
+
+
 # --------------------------------------------------------------------------
+
+def excluded_location(show):
+    """True for shows somewhere Guido will not travel to (see dashboard.py)."""
+    try:
+        import dashboard
+        return dashboard.excluido(show)
+    except Exception as e:  # noqa: BLE001 -- a broken filter must not mute alerts
+        log(f"location filter unavailable, notifying anyway: {e}")
+        return False
+
+
+def rebuild_dashboard(current):
+    """Regenerate dashboard.html. Never let it take the watcher down with it."""
+    try:
+        import dashboard
+        dashboard.rebuild(current, cache_image, log)
+    except Exception as e:  # noqa: BLE001
+        log(f"dashboard rebuild failed: {e}")
+
 
 def run_check():
     try:
@@ -764,6 +805,7 @@ def run_check():
         # First run: establish baseline silently.
         save_state({"shows": current, "seeded_at": datetime.now().isoformat()})
         log(f"Baseline seeded with {len(current)} shows. No notifications sent on first run.")
+        rebuild_dashboard(current)
         return 0
 
     reap_waiters()
@@ -778,7 +820,13 @@ def run_check():
                 for f in ("date", "time", "venue", "city") if old.get(f, "") != now.get(f, "")]
         log(f"Show moved (not new): {now['title']} -- " + "; ".join(diff))
 
+    skipped = 0
     for k in new_keys:
+        # Still recorded as seen, just not worth a notification.
+        if excluded_location(current[k]):
+            log(f"Skipped (excluded location): {describe(current[k])}")
+            skipped += 1
+            continue
         notify_new_show(current[k])
         time.sleep(0.4)  # let the daemon queue each one
 
@@ -789,7 +837,10 @@ def run_check():
     state["last_check"] = datetime.now().isoformat()
     save_state(state)
 
-    log(f"Checked {len(current)} shows; {len(new_keys)} new; {watch_events} watchlist event(s).")
+    rebuild_dashboard(current)
+
+    log(f"Checked {len(current)} shows; {len(new_keys)} new "
+        f"({skipped} skipped by location); {watch_events} watchlist event(s).")
     return 0
 
 
@@ -815,6 +866,8 @@ def main(argv):
         return cmd_unwatch(" ".join(rest), preset)
     if cmd in ("list", "watching"):
         return cmd_list()
+    if cmd == "dashboard":
+        return cmd_dashboard()
     if cmd == "_await_click":
         return await_click(rest[0]) if rest else 2
 

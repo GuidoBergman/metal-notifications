@@ -1,0 +1,1845 @@
+{
+ "version": 1,
+ "bands": {
+  "DISLEPSIA": {
+   "acts": [
+    {
+     "name": "Dislepsia",
+     "country": "Argentina",
+     "genre": "Death Metal",
+     "url": "https://www.metal-archives.com/bands/Dislepsia/37517",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "NEPAL": {
+   "acts": [
+    {
+     "name": "Nepal",
+     "country": "Argentina",
+     "genre": "Thrash Metal",
+     "url": "https://www.metal-archives.com/bands/Nepal/17166",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "WERKEN": {
+   "acts": [
+    {
+     "name": "Werken",
+     "country": "Argentina",
+     "genre": "Heavy Metal",
+     "url": "https://www.metal-archives.com/bands/Werken/3540348230",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "ENTROPHIA": {
+   "acts": [
+    {
+     "name": "Entrophia",
+     "country": "Finlandia",
+     "genre": "Melodic Power Metal/Hard Rock",
+     "url": "https://www.metal-archives.com/bands/Entrophia/11446",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "STEELBALLS": {
+   "acts": [
+    {
+     "name": "Steelballs",
+     "country": "Argentina",
+     "genre": "Power/Speed Metal",
+     "url": "https://www.metal-archives.com/bands/Steelballs/3540416278",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "HELLOWEEN": {
+   "acts": [
+    {
+     "name": "Helloween",
+     "country": "Alemania",
+     "genre": "Power/Speed Metal",
+     "url": "https://www.metal-archives.com/bands/Helloween/159",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "OLD MAN'S CHILD": {
+   "acts": [
+    {
+     "name": "Old Man's Child",
+     "country": "Noruega",
+     "genre": "Symphonic/Melodic Black Metal",
+     "url": "https://www.metal-archives.com/bands/Old_Man%27s_Child/362",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "SONATA ARCTICA": {
+   "acts": [
+    {
+     "name": "Sonata Arctica",
+     "country": "Finlandia",
+     "genre": "Power Metal",
+     "url": "https://www.metal-archives.com/bands/Sonata_Arctica/192",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "HIGH ON FIRE": {
+   "acts": [
+    {
+     "name": "High on Fire",
+     "country": "Estados Unidos",
+     "genre": "Stoner/Sludge/Doom Metal",
+     "url": "https://www.metal-archives.com/bands/High_on_Fire/2931",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "SEPULTURA": {
+   "acts": [
+    {
+     "name": "Sepultura",
+     "country": "Brasil",
+     "genre": "Death/Thrash Metal (early); Nu-Metal, Groove/Thrash Metal (later)",
+     "url": "https://www.metal-archives.com/bands/Sepultura/78",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "CABRAL": {
+   "acts": [
+    {
+     "name": "Cabral",
+     "country": "Argentina",
+     "genre": "Heavy Metal",
+     "url": "https://www.metal-archives.com/bands/Cabral/3540441982",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "LÖRIHEN": {
+   "acts": [
+    {
+     "name": "Lörihen",
+     "country": "Argentina",
+     "genre": "Heavy/Power Metal (early); Melodic Hard Rock/Heavy Metal (later)",
+     "url": "https://www.metal-archives.com/bands/L%C3%B6rihen/1095",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "AMORPHIS": {
+   "acts": [
+    {
+     "name": "Amorphis",
+     "country": "Finlandia",
+     "genre": "Progressive/Death/Doom Metal (early); Melodic Heavy Metal/Rock (later)",
+     "url": "https://www.metal-archives.com/bands/Amorphis/1",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "HELKER": {
+   "acts": [
+    {
+     "name": "Helker",
+     "country": "Argentina",
+     "genre": "Heavy Metal",
+     "url": "https://www.metal-archives.com/bands/Helker/2724",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "MORTIIS": {
+   "acts": [
+    {
+     "name": "Mortiis",
+     "country": "Noruega",
+     "genre": "Darkwave/Dungeon Synth, Electronic/Industrial Rock",
+     "url": "https://www.metal-archives.com/bands/Mortiis/81",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "IRON MAIDEN": {
+   "acts": [
+    {
+     "name": "Iron Maiden",
+     "country": "Reino Unido",
+     "genre": "Heavy Metal, NWOBHM",
+     "url": "https://www.metal-archives.com/bands/Iron_Maiden/25",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "APOCALYPTICA": {
+   "acts": [
+    {
+     "name": "Apocalyptica",
+     "country": "Finlandia",
+     "genre": "Symphonic Heavy Metal/Rock",
+     "url": "https://www.metal-archives.com/bands/Apocalyptica/1752",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "HORCAS": {
+   "acts": [
+    {
+     "name": "Horcas",
+     "country": "Argentina",
+     "genre": "Heavy/Thrash Metal (early); Groove/Thrash Metal (later)",
+     "url": "https://www.metal-archives.com/bands/Horcas/2805",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "NOCTURNAL DEPRESSION": {
+   "acts": [
+    {
+     "name": "Nocturnal Depression",
+     "country": "Francia",
+     "genre": "Atmospheric/Depressive Black Metal",
+     "url": "https://www.metal-archives.com/bands/Nocturnal_Depression/19948",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "OPERA IX": {
+   "acts": [
+    {
+     "name": "Opera IX",
+     "country": "Italia",
+     "genre": "Gothic/Doom/Death Metal (early); Symphonic Black Metal (later)",
+     "url": "https://www.metal-archives.com/bands/Opera_IX/867",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "MY DYING BRIDE": {
+   "acts": [
+    {
+     "name": "My Dying Bride",
+     "country": "Reino Unido",
+     "genre": "Doom/Death Metal (early); Gothic/Doom Metal (later)",
+     "url": "https://www.metal-archives.com/bands/My_Dying_Bride/151",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "RATA BLANCA": {
+   "acts": [
+    {
+     "name": "Rata Blanca",
+     "country": "Argentina",
+     "genre": "Heavy/Power Metal, Hard Rock",
+     "url": "https://www.metal-archives.com/bands/Rata_Blanca/1931",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "DYING FETUS": {
+   "acts": [
+    {
+     "name": "Dying Fetus",
+     "country": "Estados Unidos",
+     "genre": "Brutal Death Metal/Grindcore",
+     "url": "https://www.metal-archives.com/bands/Dying_Fetus/45",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "FOSSILIZATION": {
+   "acts": [
+    {
+     "name": "Fossilization",
+     "country": "Brasil",
+     "genre": "Death/Doom Metal",
+     "url": "https://www.metal-archives.com/bands/Fossilization/3540483963",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "MYRATH": {
+   "acts": [
+    {
+     "name": "Myrath",
+     "country": "Túnez",
+     "genre": "Middle Eastern Folk/Progressive Metal",
+     "url": "https://www.metal-archives.com/bands/Myrath/105456",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "DEEP PURPLE": {
+   "acts": [
+    {
+     "name": "Deep Purple",
+     "country": "Reino Unido",
+     "genre": "Heavy Metal/Hard Rock",
+     "url": "https://www.metal-archives.com/bands/Deep_Purple/1178",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "ELLENDE": {
+   "acts": [
+    {
+     "name": "Ellende",
+     "country": "Austria",
+     "genre": "Post-Black Metal",
+     "url": "https://www.metal-archives.com/bands/Ellende/3540344847",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "THYRFING": {
+   "acts": [
+    {
+     "name": "Thyrfing",
+     "country": "Suecia",
+     "genre": "Viking/Black Metal",
+     "url": "https://www.metal-archives.com/bands/Thyrfing/337",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "LUCIFERIAN": {
+   "acts": [
+    {
+     "name": "Luciferian",
+     "country": "Colombia",
+     "genre": "Black Metal",
+     "url": "https://www.metal-archives.com/bands/Luciferian/16143",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "RUSH": {
+   "acts": [
+    {
+     "name": "Rush",
+     "country": "Canadá",
+     "genre": "Progressive Rock",
+     "url": "https://www.metal-archives.com/bands/Rush/1206",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "ALCEST": {
+   "acts": [
+    {
+     "name": "Alcest",
+     "country": "Francia",
+     "genre": "Post-Black Metal, Shoegaze",
+     "url": "https://www.metal-archives.com/bands/Alcest/19701",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "ELEINE": {
+   "acts": [
+    {
+     "name": "Eleine",
+     "country": "Suecia",
+     "genre": "Symphonic Metal",
+     "url": "https://www.metal-archives.com/bands/Eleine/3540400864",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "QUIET RIOT": {
+   "acts": [
+    {
+     "name": "Quiet Riot",
+     "country": "Estados Unidos",
+     "genre": "Hard Rock, Heavy Metal",
+     "url": "https://www.metal-archives.com/bands/Quiet_Riot/1709",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "V.I.D.A.": {
+   "acts": [
+    {
+     "name": "V.I.D.A.",
+     "country": "Argentina",
+     "genre": "Melodic Death/Thrash Metal/Metalcore",
+     "url": "https://www.metal-archives.com/bands/V.I.D.A./3540439086",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "DEF LEPPARD": {
+   "acts": [
+    {
+     "name": "Def Leppard",
+     "country": "Reino Unido",
+     "genre": "NWOBHM/Heavy Metal (early); Hard Rock, Pop Rock (later)",
+     "url": "https://www.metal-archives.com/bands/Def_Leppard/16713",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "OPETH": {
+   "acts": [
+    {
+     "name": "Opeth",
+     "country": "Suecia",
+     "genre": "Progressive Death Metal, Progressive Rock",
+     "url": "https://www.metal-archives.com/bands/Opeth/38",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "BENEDICTION": {
+   "acts": [
+    {
+     "name": "Benediction",
+     "country": "Reino Unido",
+     "genre": "Death Metal",
+     "url": "https://www.metal-archives.com/bands/Benediction/504",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "H2O": {
+   "acts": [
+    {
+     "name": "H₂O",
+     "country": "Corea del Sur",
+     "genre": "Heavy Metal (early); AOR/Alternative Rock (later)",
+     "url": "https://www.metal-archives.com/bands/H%E2%82%82O/116149",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "ANGRA": {
+   "acts": [
+    {
+     "name": "Angra",
+     "country": "Brasil",
+     "genre": "Progressive Power Metal",
+     "url": "https://www.metal-archives.com/bands/Angra/538",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "THE HAUNTED": {
+   "acts": [
+    {
+     "name": "The Haunted",
+     "country": "Suecia",
+     "genre": "Melodic Death/Thrash/Groove Metal",
+     "url": "https://www.metal-archives.com/bands/The_Haunted/85",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "MALEVOLENT CREATION": {
+   "acts": [
+    {
+     "name": "Malevolent Creation",
+     "country": "Estados Unidos",
+     "genre": "Death Metal",
+     "url": "https://www.metal-archives.com/bands/Malevolent_Creation/175",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "MYSTIC CIRCLE": {
+   "acts": [
+    {
+     "name": "Mystic Circle",
+     "country": "Alemania",
+     "genre": "Melodic Black Metal (early); Melodic Black/Death Metal (later)",
+     "url": "https://www.metal-archives.com/bands/Mystic_Circle/1014",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "SATURNUS": {
+   "acts": [
+    {
+     "name": "Saturnus",
+     "country": "Dinamarca",
+     "genre": "Melodic Doom/Death Metal",
+     "url": "https://www.metal-archives.com/bands/Saturnus/3540",
+     "source": "metal-archives",
+     "note": "Homónimos en Metal Archives. Elegido por precio y venue del show."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "GRUESOME": {
+   "acts": [
+    {
+     "name": "Gruesome",
+     "country": "Estados Unidos",
+     "genre": "Death Metal (early); Progressive Death Metal (later)",
+     "url": "https://www.metal-archives.com/bands/Gruesome/3540392674",
+     "source": "metal-archives",
+     "note": "Homónimos en Metal Archives. Elegido por precio y venue del show."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "SPARTA": {
+   "acts": [
+    {
+     "name": "Sparta",
+     "country": "Reino Unido",
+     "genre": "NWOBHM/Heavy Metal",
+     "url": "https://www.metal-archives.com/bands/Sparta/16997",
+     "source": "metal-archives",
+     "note": "Homónimos en Metal Archives. Elegido por precio y venue del show."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "UNDERCROFT": {
+   "acts": [
+    {
+     "name": "Undercroft",
+     "country": "Chile",
+     "genre": "Death/Thrash Metal (early); Death Metal (later)",
+     "url": "https://www.metal-archives.com/bands/Undercroft/5860",
+     "source": "metal-archives",
+     "note": "Homónimos en Metal Archives. Elegido por precio y venue del show."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "BLOODBATH": {
+   "acts": [
+    {
+     "name": "Bloodbath",
+     "country": "Suecia",
+     "genre": "Death Metal",
+     "url": "https://www.metal-archives.com/bands/Bloodbath/233",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "CELESTE": {
+   "acts": [
+    {
+     "name": "Celeste",
+     "country": "Francia",
+     "genre": "Black/Sludge Metal/Post-Hardcore",
+     "url": "https://www.metal-archives.com/bands/Celeste/3540283283",
+     "source": "metal-archives",
+     "note": "Homónimos en Metal Archives. Elegido por precio y venue del show."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "KAMIKAZE": {
+   "acts": [
+    {
+     "name": "Kamikaze",
+     "country": "Argentina",
+     "genre": "Heavy Metal",
+     "url": "https://www.metal-archives.com/bands/Kamikaze/17165",
+     "source": "metal-archives",
+     "note": "Homónimos en Metal Archives. Elegido por precio y venue del show."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "LETHAL": {
+   "acts": [
+    {
+     "name": "Lethal",
+     "country": "Argentina",
+     "genre": "Thrash/Heavy Metal",
+     "url": "https://www.metal-archives.com/bands/Lethal/8399",
+     "source": "metal-archives",
+     "note": "Homónimos en Metal Archives. Elegido por precio y venue del show."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "MAD": {
+   "acts": [
+    {
+     "name": "Mad",
+     "country": "Argentina",
+     "genre": "Progressive Thrash Metal",
+     "url": "https://www.metal-archives.com/bands/Mad/3540431045",
+     "source": "metal-archives",
+     "note": "Homónimos en Metal Archives. Elegido por precio y venue del show."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "JASON": {
+   "acts": [
+    {
+     "name": "Jason",
+     "country": "Argentina",
+     "genre": "Power Metal",
+     "url": "https://www.metal-archives.com/bands/Jason/2806",
+     "source": "metal-archives",
+     "note": "Homónimos en Metal Archives. Elegido por precio y venue del show."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "NUM": {
+   "acts": [
+    {
+     "name": "Num",
+     "country": "Argentina",
+     "genre": "Groove Metal",
+     "url": "https://www.metal-archives.com/bands/Num/3540378599",
+     "source": "metal-archives",
+     "note": "Homónimos en Metal Archives. Elegido por precio y venue del show."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "POGROM": {
+   "acts": [
+    {
+     "name": "Pogrom",
+     "country": "Argentina",
+     "genre": "Death Metal",
+     "url": "https://www.metal-archives.com/bands/Pogrom/12476",
+     "source": "metal-archives",
+     "note": "Homónimos en Metal Archives. Elegido por precio y venue del show."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "AFTER FOREVER": {
+   "acts": [
+    {
+     "name": "After Forever",
+     "country": "Países Bajos",
+     "genre": "Symphonic Metal",
+     "url": "https://www.metal-archives.com/bands/After_Forever/526",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "HELLBUTCHER": {
+   "acts": [
+    {
+     "name": "Hellbutcher",
+     "country": "Suecia",
+     "genre": "Black Metal",
+     "url": "https://www.metal-archives.com/bands/Hellbutcher/3540518618",
+     "source": "metal-archives",
+     "note": "Homónimos en Metal Archives. Elegido por precio y venue del show."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "SIX FEET UNDER": {
+   "acts": [
+    {
+     "name": "Six Feet Under",
+     "country": "Estados Unidos",
+     "genre": "Death/Groove Metal, Death 'n' Roll",
+     "url": "https://www.metal-archives.com/bands/Six_Feet_Under/1067",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "SARATOGA": {
+   "acts": [
+    {
+     "name": "Saratoga",
+     "country": "España",
+     "genre": "Power/Heavy Metal",
+     "url": "https://www.metal-archives.com/bands/Saratoga/466",
+     "source": "metal-archives",
+     "note": "Homónimos en Metal Archives. Elegido por precio y venue del show."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "SLAYER": {
+   "acts": [
+    {
+     "name": "Slayer",
+     "country": "Estados Unidos",
+     "genre": "Thrash Metal",
+     "url": "https://www.metal-archives.com/bands/Slayer/72",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "AVATAR": {
+   "acts": [
+    {
+     "name": "Avatar",
+     "country": "Suecia",
+     "genre": "Melodic Death Metal/Metalcore (early); Metalcore/Alternative Metal/Rock (later)",
+     "url": "https://www.metal-archives.com/bands/Avatar/24596",
+     "source": "metal-archives",
+     "note": "Homónimos en Metal Archives. Elegido por precio y venue del show."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "HELLRIPPER": {
+   "acts": [
+    {
+     "name": "Hellripper",
+     "country": "Reino Unido",
+     "genre": "Black/Speed Metal",
+     "url": "https://www.metal-archives.com/bands/Hellripper/3540394369",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "MORTIFICATION": {
+   "acts": [
+    {
+     "name": "Mortification",
+     "country": "Australia",
+     "genre": "Death/Thrash Metal (early/later); Death 'n' Roll (mid)",
+     "url": "https://www.metal-archives.com/bands/Mortification/792",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "POSER": {
+   "acts": [
+    {
+     "name": "Poser",
+     "country": "Japón",
+     "genre": "Heavy Metal",
+     "url": "https://www.metal-archives.com/bands/Poser/3540501429",
+     "source": "metal-archives",
+     "note": "Único match exacto en Metal Archives. Verificar que sea esta banda."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "PENTAGRAM": {
+   "acts": [
+    {
+     "name": "Pentagram",
+     "country": "Estados Unidos",
+     "genre": "Doom Metal",
+     "url": "https://www.metal-archives.com/bands/Pentagram/443",
+     "source": "metal-archives",
+     "note": "Sin resolver: varios homónimos y la agenda no da más datos. Candidatos: doom de EE.UU., thrash de México, death/thrash de Suecia, el turco (ex-Mezarkabul)."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "SANCTUARY": {
+   "acts": [
+    {
+     "name": "Sanctuary",
+     "country": "Estados Unidos",
+     "genre": "Heavy/Power/Thrash Metal (early); Groove/Progressive Metal (later)",
+     "url": "https://www.metal-archives.com/bands/Sanctuary/343",
+     "source": "metal-archives",
+     "note": "Sin resolver: varios homónimos y la agenda no da más datos. Nueve homónimos."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "WARHAMMER": {
+   "acts": [
+    {
+     "name": "Warhammer",
+     "country": "Chile",
+     "genre": "Power/Thrash Metal",
+     "url": "https://www.metal-archives.com/bands/Warhammer/4066",
+     "source": "metal-archives",
+     "note": "Sin resolver: varios homónimos y la agenda no da más datos. Diez homónimos y ninguno argentino. Puse el chileno por cercanía y precio."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "DIES IRAE": {
+   "acts": [
+    {
+     "name": "Dies Irae",
+     "country": "sin dato",
+     "genre": "sin dato",
+     "url": "",
+     "source": "propio",
+     "note": "Quince homónimos en Metal Archives y ninguno argentino. La entrada de 20.000 sugiere una banda local sin ficha."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "NATAS": {
+   "acts": [
+    {
+     "name": "Los Natas",
+     "country": "Argentina",
+     "genre": "Stoner Metal",
+     "url": "",
+     "source": "propio",
+     "note": "Metal Archives no tiene ningún «Natas» argentino. El que encaja es Los Natas, de Buenos Aires."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "LEFT TO DIE": {
+   "acts": [
+    {
+     "name": "Left to Die",
+     "country": "Estados Unidos",
+     "genre": "Death metal (repertorio de Death)",
+     "url": "",
+     "source": "propio",
+     "note": "Proyecto de ex-integrantes de Death. Los «Left to Die» de Metal Archives son otras bandas."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "EPICA & RHAPSODY": {
+   "acts": [
+    {
+     "name": "Epica",
+     "country": "Países Bajos",
+     "genre": "Symphonic Metal",
+     "url": "https://www.metal-archives.com/bands/Epica/6716",
+     "source": "metal-archives",
+     "note": ""
+    },
+    {
+     "name": "Rhapsody of Fire",
+     "country": "Italia",
+     "genre": "Symphonic Power Metal",
+     "url": "https://www.metal-archives.com/bands/Rhapsody_of_Fire/32",
+     "source": "metal-archives",
+     "note": "La agenda dice «Rhapsody» a secas."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "RHAPSODY OF FIRE & MASTERPLAN": {
+   "acts": [
+    {
+     "name": "Rhapsody of Fire",
+     "country": "Italia",
+     "genre": "Symphonic Power Metal",
+     "url": "https://www.metal-archives.com/bands/Rhapsody_of_Fire/32",
+     "source": "metal-archives",
+     "note": ""
+    },
+    {
+     "name": "Masterplan",
+     "country": "Alemania",
+     "genre": "Power Metal",
+     "url": "https://www.metal-archives.com/bands/Masterplan/1510",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "MALEVOLENT CREATION & MYSTIC CIRCLE": {
+   "acts": [
+    {
+     "name": "Malevolent Creation",
+     "country": "Estados Unidos",
+     "genre": "Death Metal",
+     "url": "https://www.metal-archives.com/bands/Malevolent_Creation/175",
+     "source": "metal-archives",
+     "note": ""
+    },
+    {
+     "name": "Mystic Circle",
+     "country": "Alemania",
+     "genre": "Melodic Black Metal (early); Melodic Black/Death Metal (later)",
+     "url": "https://www.metal-archives.com/bands/Mystic_Circle/1014",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "ELLENDE & THYRFING": {
+   "acts": [
+    {
+     "name": "Ellende",
+     "country": "Austria",
+     "genre": "Post-Black Metal",
+     "url": "https://www.metal-archives.com/bands/Ellende/3540344847",
+     "source": "metal-archives",
+     "note": ""
+    },
+    {
+     "name": "Thyrfing",
+     "country": "Suecia",
+     "genre": "Viking/Black Metal",
+     "url": "https://www.metal-archives.com/bands/Thyrfing/337",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "TESTAMENT, MUNICIPAL WASTE & IMMOLATION": {
+   "acts": [
+    {
+     "name": "Testament",
+     "country": "Estados Unidos",
+     "genre": "Thrash Metal",
+     "url": "https://www.metal-archives.com/bands/Testament/70",
+     "source": "metal-archives",
+     "note": ""
+    },
+    {
+     "name": "Municipal Waste",
+     "country": "Estados Unidos",
+     "genre": "Thrash Metal/Crossover",
+     "url": "https://www.metal-archives.com/bands/Municipal_Waste/7477",
+     "source": "metal-archives",
+     "note": ""
+    },
+    {
+     "name": "Immolation",
+     "country": "Estados Unidos",
+     "genre": "Death Metal",
+     "url": "https://www.metal-archives.com/bands/Immolation/194",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "VIRTHUAL, BALLES & ARHIMAN": {
+   "acts": [
+    {
+     "name": "Virthual",
+     "country": "Argentina",
+     "genre": "Heavy/Power Metal",
+     "url": "https://www.metal-archives.com/bands/Virthual/3540502041",
+     "source": "metal-archives",
+     "note": ""
+    },
+    {
+     "name": "Balles",
+     "country": "Argentina",
+     "genre": "Heavy Metal",
+     "url": "https://www.metal-archives.com/bands/Balles/3540546664",
+     "source": "metal-archives",
+     "note": ""
+    },
+    {
+     "name": "Arhiman",
+     "country": "Argentina",
+     "genre": "Power Metal",
+     "url": "https://www.metal-archives.com/bands/Arhiman/3540315862",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "MEMPHIS MAY FIRE & BLESSTHEFALL": {
+   "acts": [
+    {
+     "name": "Memphis May Fire",
+     "country": "Estados Unidos",
+     "genre": "Metalcore",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives."
+    },
+    {
+     "name": "Blessthefall",
+     "country": "Estados Unidos",
+     "genre": "Post-hardcore",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "TARJA": {
+   "acts": [
+    {
+     "name": "Tarja",
+     "country": "Finlandia",
+     "genre": "Symphonic Metal/Rock, Neoclassical",
+     "url": "https://www.metal-archives.com/bands/Tarja/110710",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "BLAZE BAYLEY": {
+   "acts": [
+    {
+     "name": "Blaze Bayley",
+     "country": "Reino Unido",
+     "genre": "Heavy Metal",
+     "url": "https://www.metal-archives.com/bands/Blaze_Bayley/600",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "MARTY FRIEDMAN": {
+   "acts": [
+    {
+     "name": "Marty Friedman",
+     "country": "Estados Unidos",
+     "genre": "Progressive Rock/Metal, Shred",
+     "url": "https://www.metal-archives.com/bands/Marty_Friedman/1682",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "DOYLE": {
+   "acts": [
+    {
+     "name": "Doyle",
+     "country": "Estados Unidos",
+     "genre": "Heavy Metal/Punk Rock",
+     "url": "https://www.metal-archives.com/bands/Doyle/3540370943",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "METALOCALYPSE: DETHKLOK": {
+   "acts": [
+    {
+     "name": "Dethklok",
+     "country": "Estados Unidos",
+     "genre": "Melodic Death Metal",
+     "url": "https://www.metal-archives.com/bands/Dethklok/106461",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "BERTONCELLI: 25° ANIVERSARIO DE \"PAZ EN LA TORMENTA\"": {
+   "acts": [
+    {
+     "name": "Bertoncelli",
+     "country": "Argentina",
+     "genre": "Melodic Heavy/Power Metal",
+     "url": "https://www.metal-archives.com/bands/Bertoncelli/3540339905",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "MAGNOS POR JAVIER BARROZO": {
+   "acts": [
+    {
+     "name": "Magnos",
+     "country": "Argentina",
+     "genre": "Heavy Metal",
+     "url": "https://www.metal-archives.com/bands/Magnos/111911",
+     "source": "metal-archives",
+     "note": ""
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "ZABALA & FREZZA -EL RELOJ-": {
+   "acts": [
+    {
+     "name": "El Reloj",
+     "country": "Argentina",
+     "genre": "Progressive/Hard Rock (early); Heavy/Power Metal (later)",
+     "url": "https://www.metal-archives.com/bands/El_Reloj/3540316900",
+     "source": "metal-archives",
+     "note": "Ficha de El Reloj."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "ZAMARBIDE": {
+   "acts": [
+    {
+     "name": "V8",
+     "country": "Argentina",
+     "genre": "Heavy Metal",
+     "url": "https://www.metal-archives.com/bands/V8/3236",
+     "source": "metal-archives",
+     "note": "Ex-cantante de V8."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "CTM CLAUDIO TANO MARCIELLO": {
+   "acts": [
+    {
+     "name": "Almafuerte",
+     "country": "Argentina",
+     "genre": "Heavy/Speed Metal (early); Hard Rock (later)",
+     "url": "https://www.metal-archives.com/bands/Almafuerte/1766",
+     "source": "metal-archives",
+     "note": "Ex-guitarrista de Almafuerte."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "PAUL GILBERT": {
+   "acts": [
+    {
+     "name": "Racer X",
+     "country": "Estados Unidos",
+     "genre": "Heavy Metal/Shred",
+     "url": "https://www.metal-archives.com/bands/Racer_X/1306",
+     "source": "metal-archives",
+     "note": "Su banda, Racer X."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "ROBERTO TIRANTI": {
+   "acts": [
+    {
+     "name": "Labÿrinth",
+     "country": "Italia",
+     "genre": "Progressive Power Metal",
+     "url": "https://www.metal-archives.com/bands/Lab%C3%BFrinth/1068",
+     "source": "metal-archives",
+     "note": "Cantante de Labyrinth."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "GEOFF TATE": {
+   "acts": [
+    {
+     "name": "Queensrÿche",
+     "country": "Estados Unidos",
+     "genre": "Progressive Heavy/Power Metal (early/later); Hard Rock (mid)",
+     "url": "https://www.metal-archives.com/bands/Queensr%C3%BFche/340",
+     "source": "metal-archives",
+     "note": "Ex-cantante de Queensrÿche."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "ROY KHAN": {
+   "acts": [
+    {
+     "name": "Kamelot",
+     "country": "Estados Unidos",
+     "genre": "Progressive/Melodic Power Metal",
+     "url": "https://www.metal-archives.com/bands/Kamelot/166",
+     "source": "metal-archives",
+     "note": "Ex-cantante de Kamelot."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "CHARLOTTE WESSELS": {
+   "acts": [
+    {
+     "name": "Delain",
+     "country": "Países Bajos",
+     "genre": "Symphonic Metal/Rock",
+     "url": "https://www.metal-archives.com/bands/Delain/10897",
+     "source": "metal-archives",
+     "note": "Ex-cantante de Delain."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "ANETTE OLZON": {
+   "acts": [
+    {
+     "name": "Nightwish",
+     "country": "Finlandia",
+     "genre": "Symphonic Power Metal (early); Symphonic Metal (later)",
+     "url": "https://www.metal-archives.com/bands/Nightwish/39",
+     "source": "metal-archives",
+     "note": "Ex-cantante de Nightwish."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "FLOOR JANSEN": {
+   "acts": [
+    {
+     "name": "Nightwish",
+     "country": "Finlandia",
+     "genre": "Symphonic Power Metal (early); Symphonic Metal (later)",
+     "url": "https://www.metal-archives.com/bands/Nightwish/39",
+     "source": "metal-archives",
+     "note": "Cantante de Nightwish."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "LA H NO MURIÓ": {
+   "acts": [
+    {
+     "name": "Hermética",
+     "country": "Argentina",
+     "genre": "Thrash Metal",
+     "url": "https://www.metal-archives.com/bands/Herm%C3%A9tica/2721",
+     "source": "metal-archives",
+     "note": "Tributo a Hermética."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "MICHALE GRAVES": {
+   "acts": [
+    {
+     "name": "Michale Graves",
+     "country": "Estados Unidos",
+     "genre": "Horror punk",
+     "url": "",
+     "source": "propio",
+     "note": "Ex-cantante de Misfits, que no está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "JOHN 5": {
+   "acts": [
+    {
+     "name": "John 5",
+     "country": "Estados Unidos",
+     "genre": "Shred instrumental / hard rock",
+     "url": "",
+     "source": "propio",
+     "note": "Ex-Marilyn Manson y Mötley Crüe. No está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "DREGEN": {
+   "acts": [
+    {
+     "name": "Dregen",
+     "country": "Suecia",
+     "genre": "Sleaze rock / punk 'n' roll",
+     "url": "",
+     "source": "propio",
+     "note": "Guitarrista de Backyard Babies. No está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "AMAZING - TRIBUTO A AEROSMITH": {
+   "acts": [
+    {
+     "name": "Tributo a Aerosmith",
+     "country": "Argentina",
+     "genre": "Hard rock",
+     "url": "",
+     "source": "propio",
+     "note": "Banda tributo. Aerosmith no está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "BLACK DOG - THE LED ZEPPELIN EXPERIENCE": {
+   "acts": [
+    {
+     "name": "Tributo a Led Zeppelin",
+     "country": "Argentina",
+     "genre": "Hard rock / blues rock",
+     "url": "",
+     "source": "propio",
+     "note": "Banda tributo. Led Zeppelin no está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "EXPERIENCIA QUEEN": {
+   "acts": [
+    {
+     "name": "Tributo a Queen",
+     "country": "Argentina",
+     "genre": "Rock",
+     "url": "",
+     "source": "propio",
+     "note": "Banda tributo. Queen no está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "KISS MY ASS": {
+   "acts": [
+    {
+     "name": "Tributo a Kiss",
+     "country": "Argentina",
+     "genre": "Hard rock / shock rock",
+     "url": "",
+     "source": "propio",
+     "note": "Banda tributo. Kiss no está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "ZAKK SABBATH": {
+   "acts": [
+    {
+     "name": "Zakk Sabbath",
+     "country": "Estados Unidos",
+     "genre": "Doom / heavy metal",
+     "url": "",
+     "source": "propio",
+     "note": "Proyecto de Zakk Wylde tocando Black Sabbath. No está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "ENTRE EL CIELO Y EL INFIERNO": {
+   "acts": [
+    {
+     "name": "Tributo a Rata Blanca",
+     "country": "Argentina",
+     "genre": "Heavy/Power Metal, Hard Rock",
+     "url": "",
+     "source": "propio",
+     "note": "Es el título de un disco de Rata Blanca."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "BLACK METAL EDITION 2": {
+   "acts": [
+    {
+     "name": "Festival",
+     "country": "Argentina",
+     "genre": "Black metal",
+     "url": "",
+     "source": "propio",
+     "note": "Line-up solo en el flyer. El género sale del nombre del festival."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "UN MANDATO DIVINO 8": {
+   "acts": [
+    {
+     "name": "Festival",
+     "country": "Argentina",
+     "genre": "sin dato",
+     "url": "",
+     "source": "propio",
+     "note": "Line-up solo en el flyer."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "A PERFECT CIRCLE": {
+   "acts": [
+    {
+     "name": "A Perfect Circle",
+     "country": "Estados Unidos",
+     "genre": "Rock alternativo / art rock",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "A SKYLIT DRIVE": {
+   "acts": [
+    {
+     "name": "A Skylit Drive",
+     "country": "Estados Unidos",
+     "genre": "Post-hardcore / metalcore",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "A WILHELM SCREAM": {
+   "acts": [
+    {
+     "name": "A Wilhelm Scream",
+     "country": "Estados Unidos",
+     "genre": "Melodic hardcore / skate punk",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "AL DI MEOLA": {
+   "acts": [
+    {
+     "name": "Al Di Meola",
+     "country": "Estados Unidos",
+     "genre": "Jazz fusión / guitarra acústica",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "ALTER BRIDGE": {
+   "acts": [
+    {
+     "name": "Alter Bridge",
+     "country": "Estados Unidos",
+     "genre": "Hard rock / metal alternativo",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "ANTIMATTER": {
+   "acts": [
+    {
+     "name": "Antimatter",
+     "country": "Reino Unido",
+     "genre": "Dark rock / rock progresivo atmosférico",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "BABY METAL": {
+   "acts": [
+    {
+     "name": "Baby Metal",
+     "country": "Japón",
+     "genre": "Kawaii metal",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "BETWEEN THE BURIED AND ME": {
+   "acts": [
+    {
+     "name": "Between The Buried And Me",
+     "country": "Estados Unidos",
+     "genre": "Metal progresivo / death metal técnico",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "CRASHDÏET": {
+   "acts": [
+    {
+     "name": "Crashdïet",
+     "country": "Suecia",
+     "genre": "Sleaze / glam metal",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "DIE TOTEN HOSEN": {
+   "acts": [
+    {
+     "name": "Die Toten Hosen",
+     "country": "Alemania",
+     "genre": "Punk rock",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "FELIX MARTIN": {
+   "acts": [
+    {
+     "name": "Felix Martin",
+     "country": "Venezuela",
+     "genre": "Fusión instrumental / metal progresivo",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "FISHBONE": {
+   "acts": [
+    {
+     "name": "Fishbone",
+     "country": "Estados Unidos",
+     "genre": "Funk rock / ska punk",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "FIT FOR A KING": {
+   "acts": [
+    {
+     "name": "Fit For A King",
+     "country": "Estados Unidos",
+     "genre": "Metalcore",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "FOO FIGHTERS": {
+   "acts": [
+    {
+     "name": "Foo Fighters",
+     "country": "Estados Unidos",
+     "genre": "Rock alternativo",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "GODSPEED YOU! BLACK EMPEROR": {
+   "acts": [
+    {
+     "name": "Godspeed You! Black Emperor",
+     "country": "Canadá",
+     "genre": "Post-rock",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "ILL NIÑO": {
+   "acts": [
+    {
+     "name": "Ill Niño",
+     "country": "Estados Unidos",
+     "genre": "Nu metal / metal latino",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "LANDMVRKS": {
+   "acts": [
+    {
+     "name": "Landmvrks",
+     "country": "Francia",
+     "genre": "Metalcore",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "LIVE": {
+   "acts": [
+    {
+     "name": "Live",
+     "country": "Estados Unidos",
+     "genre": "Rock alternativo",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "NICO BORIE": {
+   "acts": [
+    {
+     "name": "Nico Borie",
+     "country": "Chile",
+     "genre": "Covers de anime en rock / metal",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "SLAUGHTER TO PREVAIL": {
+   "acts": [
+    {
+     "name": "Slaughter To Prevail",
+     "country": "Rusia",
+     "genre": "Deathcore",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "SOCIAL DISTORTION": {
+   "acts": [
+    {
+     "name": "Social Distortion",
+     "country": "Estados Unidos",
+     "genre": "Punk rock / cowpunk",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "SOEN": {
+   "acts": [
+    {
+     "name": "Soen",
+     "country": "Suecia",
+     "genre": "Metal progresivo",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "THE CRUEL INTENTIONS": {
+   "acts": [
+    {
+     "name": "The Cruel Intentions",
+     "country": "Noruega",
+     "genre": "Sleaze / hard rock",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "TOE": {
+   "acts": [
+    {
+     "name": "Toe",
+     "country": "Japón",
+     "genre": "Math rock / post-rock",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "YOUTH OF TODAY": {
+   "acts": [
+    {
+     "name": "Youth Of Today",
+     "country": "Estados Unidos",
+     "genre": "Youth crew hardcore",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "ZZ TOP": {
+   "acts": [
+    {
+     "name": "Zz Top",
+     "country": "Estados Unidos",
+     "genre": "Blues rock / hard rock",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "CYNARA": {
+   "acts": [
+    {
+     "name": "Cynara",
+     "country": "Argentina (probable)",
+     "genre": "sin dato",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives y no la conozco."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "DARLOTODO": {
+   "acts": [
+    {
+     "name": "Darlotodo",
+     "country": "Argentina (probable)",
+     "genre": "sin dato",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives y no la conozco."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "REQUIEM FOR EDEN": {
+   "acts": [
+    {
+     "name": "Requiem For Eden",
+     "country": "Argentina (probable)",
+     "genre": "sin dato",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives y no la conozco."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "RITUAL DE BRUJAS": {
+   "acts": [
+    {
+     "name": "Ritual De Brujas",
+     "country": "Argentina (probable)",
+     "genre": "sin dato",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives y no la conozco."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  },
+  "SONNE LICHT": {
+   "acts": [
+    {
+     "name": "Sonne Licht",
+     "country": "Argentina (probable)",
+     "genre": "sin dato",
+     "url": "",
+     "source": "propio",
+     "note": "No está en Metal Archives y no la conozco."
+    }
+   ],
+   "resolved_at": "2026-08-15"
+  }
+ }
+}

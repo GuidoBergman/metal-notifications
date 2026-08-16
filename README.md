@@ -53,6 +53,31 @@ Watching a show whose tickets are already on sale prints the ticket link instead
 
 A ticket alert fires once and the show then leaves the watchlist, since there is nothing left to wait for.
 
+## The dashboard
+
+Every run rewrites `dashboard.html`, a grid with one card per show: flyer, band, genre, country, date, price and venue. Open it straight from disk, no server needed.
+
+Each card has two links and no wasted words. The **band name goes to its Metal Archives page**, and the **flyer goes to the ticket page**, with a 🎟 badge in the corner marking that it is clickable. Because the name is the link, the band is not printed twice: the card shows the title once and then only the genre and country under it. Shows billing several bands are the exception, since each one needs its own name and its own link.
+
+```bash
+python3 monitor.py dashboard         # rebuild it without checking for new shows
+xdg-open dashboard.html
+```
+
+The star marks a **band**, not a single show, so starring a band covers every date it plays and any date it adds later. Starred bands are kept in the browser's `localStorage`, so they survive every rebuild but do not follow you to another browser. Use the search box to filter by band, genre, country or venue, and the two toggles to show only favourites or to bring back shows that already happened.
+
+Places you will not travel to are listed in `EXCLUIR_CIUDADES` in `dashboard.py`, matched against the show's city ignoring case and accents. Shows there are left off the dashboard **and** never fire a new-show notification. Ticket alerts for shows you explicitly put on the watchlist still come through, since asking for those was a deliberate choice.
+
+Nothing is deleted: the shows stay in the archive and removing a line brings them straight back.
+
+Favourites are separate from the watchlist on purpose. Starring a band is just a view filter; ticket alerts still come only from `monitor.py watch`.
+
+Genres come from `genres.json` and each card says where its data came from. **MA** is Metal Archives, which is the better source and the only one that records how a band's style changed, as in `Thrash Metal (early); Groove Metal (later)`. **SoM** is Spirit of Metal, coarser but reachable from a script, which is what fills in bands that appear on the agenda later.
+
+That split exists because Metal Archives is behind a Cloudflare challenge no HTTP client can pass, so its data has to be collected once through a real browser: open metal-archives.com in Firefox, paste `ma_snippet.js` into the console, and run `python3 seed_genres.py` on the file it downloads.
+
+Bands sharing a name are the hard part, and guessing wrong is worse than not guessing, because a plausible genre from the wrong country's band reads as correct. The ticket price is used to tell them apart, on the assumption that a cheap show is a local band and an expensive one is a touring act. When that is not enough the card carries a ⚠ and says so rather than picking silently.
+
 <details>
 <summary><b>How it works</b></summary>
 
@@ -73,14 +98,22 @@ Buttons need a helper process. `notify-send --action` blocks until the notificat
 
 | File | What it is |
 |---|---|
-| `monitor.py` | The whole program |
+| `monitor.py` | The watcher: fetch, diff, notify |
+| `dashboard.py` | Genre lookup and dashboard rendering |
+| `seed_genres.py` | One-off, builds `genres.json` from a Metal Archives harvest |
+| `ma_snippet.js` | Paste into the Firefox console to harvest Metal Archives |
+| `genres.json` | Genre, country and source per agenda title |
+| `dashboard.html` | The generated dashboard |
+| `dashboard_archive.json` | Every show ever seen, so past ones are not lost when they leave the agenda |
 | `known_shows.json` | Every show seen on the last run. Deleting it makes the next run treat the whole agenda as already seen, which silently swallows genuinely new shows |
 | `watchlist.json` | Shows waiting for tickets |
 | `images/` | Cached flyers |
 | `.pending/` | Payloads for notifications still on screen |
 | `monitor.log`, `cron.log` | Run history |
 
-Only `monitor.py` and the docs are tracked in git. Everything else is local state.
+The code, the docs and `genres.json` are tracked in git. Everything else is local state.
+
+`genres.json` is tracked even though it is data, because the Metal Archives half of it was collected through a manual browser step and no script can rebuild it.
 
 </details>
 

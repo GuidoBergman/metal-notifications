@@ -1,11 +1,18 @@
 # Local state. Everything here is rebuilt by running the script.
 known_shows.json
 known_shows.json.bak-*
-watchlist.json
 watchlist.lock
 *.json.tmp
+*.html.tmp
 images/
 .pending/
+
+# Generated dashboard and its archive of past shows. genres.json is NOT here on
+# purpose: its Metal Archives data was harvested by hand and cannot be rebuilt
+# automatically.
+dashboard.html
+dashboard_archive.json
+artifact_dashboard.html
 
 # Logs
 *.log
